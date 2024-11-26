@@ -1,0 +1,58 @@
+
+.depicter-revert .depicter-1-element-11{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-12{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-section-29 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-107 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-62 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-56 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-111 .depicter-section-background{
+	background-color:#FFF;
+}
+
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-1-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-124{
+	border-radius:30px;
+}
+.depicter-revert .depicter-1-section-29 .depicter-section-background{
+	background-color:#000;
+}
+.depicter-revert .depicter-1-section-62 .depicter-section-background{
+	background-color:#000;
+}
+.depicter-revert .depicter-1-section-56 .depicter-section-background{
+	background-color:#000;
+}
+
+}
